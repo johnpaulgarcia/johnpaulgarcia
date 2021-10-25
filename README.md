@@ -2,6 +2,8 @@
   <p>
     <h1 align="left" style="font-size: 20px"><b>Howdy~ Traveler, Come and take a look 😏
   </p>
+      
+      ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <!--
 **johnpaulgarcia/johnpaulgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
