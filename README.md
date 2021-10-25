@@ -1,10 +1,7 @@
-<body style="background: red">
 
   <p>
-    <h1 align="left" style="font-size: 20px"><b>Hi there, I'm John <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+    <h1 align="left" style="font-size: 20px"><b>Hi there, I'm John</h1>
   </p>
-  
-</body>
 
 <!--
 **johnpaulgarcia/johnpaulgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
