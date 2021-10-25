@@ -1,6 +1,6 @@
 
   <p>
-    <h1 align="left" style="font-size: 20px"><b>Hi there, I'm John</h1>
+    <h1 align="left" style="font-size: 20px"><b>Howdy~ Traveler, Come and take a look</h1>
   </p>
 
 <!--
