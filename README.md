@@ -1,4 +1,6 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm John <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+</p>
 
 <!--
 **johnpaulgarcia/johnpaulgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
