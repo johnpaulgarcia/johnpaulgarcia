@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm John <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center" style="font-size: 20px"><b>Hi there, I'm John <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 
 <!--
