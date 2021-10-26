@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%Travelerr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Come%20and%20take%20a%20look!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%Traveler&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Come%20and%20take%20a%20look!&descAlignY=51&descAlign=62)
 
   <p>
     <h1 align="left" style="font-size: 20px"><b>Howdy~ Traveler, Come and take a look 😏
