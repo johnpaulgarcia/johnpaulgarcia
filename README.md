@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%Travelerr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Come%20and%20take%20a%20look!&descAlignY=51&descAlign=62)
 
   <p>
     <h1 align="left" style="font-size: 20px"><b>Howdy~ Traveler, Come and take a look 😏
