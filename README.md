@@ -11,5 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpaulgarcia&theme=cobalt&show_icons=true&count_private=true&hide_title=false&hide_border=false)
   
+  ![trophy](https://github-profile-trophy.vercel.app/?username=johnpaulgarcia&theme=onestar&no-frame=true&column=3&row=2)
+  
   </div>
 
