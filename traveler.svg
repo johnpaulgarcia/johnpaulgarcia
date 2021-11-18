@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="25.381 23.728 432.768 355.125" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-0" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 8 12 0.55 rgba(0,0,0,0.3)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="12"/>
+      <feOffset dx="0" dy="8"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g>
+    <path d="M 30.837 60.923 L 115.966 73.465 L 191.431 40.545 L 298.507 81.074 L 458.149 60.923 L 458.149 378.853 L 30.837 378.853 L 30.837 60.923 Z" style="fill: rgb(59, 149, 252); filter: url(#drop-shadow-filter-0);"/>
+    <path d="M 453.693 23.728 L 453.693 345.763 L 25.381 345.763 L 25.381 23.728 Z M 26.381 344.763 L 452.693 344.763 L 452.693 24.728 L 26.381 24.728 Z" style="fill: none;"/>
+    <text style="fill: rgb(255, 255, 255); font-family: &quot;Andale Mono&quot;; font-size: 20px; letter-spacing: 1.7px; word-spacing: -9.9px; white-space: pre;" x="58.371" y="137.421">WELCOME TRAVELER!</text>
+  </g>
+</svg>
